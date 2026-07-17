@@ -1,0 +1,8 @@
+{
+  "name": "Outfit Time-Capsule",
+  "description": "A stylish personal fashion diary and outfit time-capsule. Document what you wore, when, and with whom, complete with event reminders and intelligent similarity checks to avoid outfit repeating.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
